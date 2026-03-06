@@ -1,7 +1,87 @@
-# 💫 About Me:
-## <br>Hi, I'm **Albert Nadar**, a Senior Business Intelligence Engineer with **5+ years of experience in Analytics Engineering and Business Intelligence**.<br><br>I specialize in building **scalable analytics solutions and trusted data models** that enable organizations to make data-driven decisions. My work focuses on transforming raw data into **well-modeled datasets, reliable metrics, and impactful dashboards** used by Finance, Product, Sales, and Marketing teams.<br><br> 🔧 What I Work With<br>- **Analytics Engineering:** dbt, Data Modeling, Star Schema<br>- **Business Intelligence:** Looker (LookML), Tableau, SSRS<br>- **Data Warehousing:** Snowflake<br>- **Programming:** Advanced SQL, Python<br>- **Cloud & Platforms:** AWS, ELT/ETL Pipelines<br>- **Databases:** Snowflake, SQL Server, Oracle<br><br> 📊 What I Enjoy Building<br>- Scalable **analytics engineering pipelines**<br>- **LookML semantic layers** for self-service analytics<br>- **Data models and marts** that standardize business metrics<br>- **End-to-end BI solutions** from warehouse → semantic layer → dashboards<br><br>🚀 Professional Highlights<br>- Built **Customer Lifetime Value analytics models** for 1M+ customers<br>- Developed **50+ executive and financial dashboards**<br>- Improved **forecasting accuracy by 35%** through analytics modeling<br>- Enabled **self-service analytics adoption across business teams** through semantic modeling and training<br><br>📚 Currently Exploring<br>- Modern **Analytics Engineering practices**<br>- **AI-assisted analytics workflows**<br>- Advanced **data modeling with dbt + Snowflake**<br><br>📫 Connect With Me<br>- LinkedIn: https://www.linkedin.com/in/albertn97<br>- Email: albertnsql@gmail.com
+# Hi, I'm Albert Nadar 👋
 
+Senior BI Engineer | Analytics Engineering | SQL • dbt • Snowflake • Looker
 
-# 💻 Tech Stack:
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=flat&logo=snowflake&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=flat&logo=bitbucket&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## About Me
+
+I'm a **Senior Business Intelligence Engineer with 5+ years of experience** building scalable analytics solutions and data models that enable organizations to make data-driven decisions.
+
+I specialize in transforming raw data into **well-structured datasets, trusted metrics, and impactful dashboards** used by Finance, Product, Sales, and Marketing teams.
+
+My focus is on **modern analytics engineering practices**, including building reliable data pipelines, semantic layers, and business-ready data models.
+
+---
+
+## Analytics Engineering Stack
+
+| Layer | Tools |
+|------|------|
+| Data Warehouse | Snowflake |
+| Transformation | dbt |
+| Semantic Layer / BI | Looker (LookML), Tableau, SSRS |
+| Programming | SQL, Python |
+| Cloud | AWS |
+| Databases | Snowflake, SQL Server, Oracle |
+---
+
+## What I Enjoy Building
+
+- Scalable **analytics engineering pipelines**
+- **Semantic layers** that enable self-service analytics
+- **Business-ready data models** and standardized metrics
+- **End-to-end BI solutions** from warehouse → semantic layer → dashboards
+
+---
+
+## Professional Highlights
+
+- Built **Customer Lifetime Value (LTV) analytics models** analyzing 1M+ customers
+- Developed **50+ executive and financial dashboards**
+- Improved **forecasting accuracy by 35%** through analytics modeling
+- Enabled **self-service analytics adoption** through semantic modeling and training
+
+---
+
+## Featured Project
+
+### Instacart Analytics Engineering Project
+
+An end-to-end analytics engineering project demonstrating modern data stack concepts.
+
+Key components include:
+
+- Snowflake data warehouse
+- dbt transformations and testing
+- Dimensional modeling (Star Schema)
+- LookML semantic layer
+- Business intelligence dashboards
+
+This project demonstrates how analytics engineers build a **complete BI stack from raw data to business insights**.
+
+---
+
+## Currently Exploring
+
+- Advanced **dbt data modeling patterns**
+- **Analytics engineering best practices**
+- **AI-assisted analytics workflows**
+- Predictive analytics using Python
+
+---
+
+## Certifications
+
+Google Business Intelligence Certificate  
+Microsoft Certified: Azure Database Administrator Associate
+
+---
+
+## Connect With Me
+
+LinkedIn  
+https://www.linkedin.com/in/albertn97
+
+Email  
+albertnsql@gmail.com
