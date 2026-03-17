@@ -1,87 +1,86 @@
-# Hi, I'm Albert Nadar 👋
+# Albert Nadar
 
-Senior BI Engineer | Analytics Engineering | SQL • dbt • Snowflake • Looker
+**Senior BI / Analytics Engineer** · Snowflake · dbt · Looker · SQL · Python
 
----
-
-## About Me
-
-I'm a **Senior Business Intelligence Engineer with 5+ years of experience** building scalable analytics solutions and data models that enable organizations to make data-driven decisions.
-
-I specialize in transforming raw data into **well-structured datasets, trusted metrics, and impactful dashboards** used by Finance, Product, Sales, and Marketing teams.
-
-My focus is on **modern analytics engineering practices**, including building reliable data pipelines, semantic layers, and business-ready data models.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-albertn97-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/albertn97)
 
 ---
 
-## Analytics Engineering Stack
+## About
+
+I'm a Senior BI / Analytics Engineer with 5+ years of experience building
+analytics infrastructure that Finance, Product, and Marketing teams actually
+trust and use.
+
+My focus is the layer between raw data and business decisions — clean dbt
+models, well-governed semantic layers, and dashboards that answer the question
+before someone has to ask it.
+
+---
+
+## Stack
 
 | Layer | Tools |
-|------|------|
+|---|---|
 | Data Warehouse | Snowflake |
-| Transformation | dbt |
+| Transformation | dbt Core |
 | Semantic Layer / BI | Looker (LookML), Tableau, SSRS |
-| Programming | SQL, Python |
+| Languages | SQL, Python |
 | Cloud | AWS |
-| Databases | Snowflake, SQL Server, Oracle |
----
-
-## What I Enjoy Building
-
-- Scalable **analytics engineering pipelines**
-- **Semantic layers** that enable self-service analytics
-- **Business-ready data models** and standardized metrics
-- **End-to-end BI solutions** from warehouse → semantic layer → dashboards
+| Other Databases | SQL Server, Oracle |
 
 ---
 
-## Professional Highlights
+## Highlights
 
-- Built **Customer Lifetime Value (LTV) analytics models** analyzing 1M+ customers
-- Developed **50+ executive and financial dashboards**
-- Improved **forecasting accuracy by 35%** through analytics modeling
-- Enabled **self-service analytics adoption** through semantic modeling and training
+- Modeled **Customer LTV analytics** across 1M+ customers — driving retention
+  and segmentation decisions for Finance and Marketing
+- Built **50+ executive and financial dashboards** spanning revenue, margin,
+  forecasting, and product performance
+- Improved **forecasting accuracy by 35%** through analytical modeling and
+  cleaner upstream data contracts
+- Led **self-service analytics adoption** via semantic modeling, LookML
+  governance, and stakeholder training
 
 ---
 
-## Featured Project
+## Featured Projects
 
-### Instacart Analytics Engineering Project
+### [SaaS Product Analytics](https://github.com/albertnsql/saas-product-analytics)
+Analytics pipeline for a synthetic SaaS dataset — synthetic event data
+generated with Python, modeled in dbt, and structured to answer product and
+growth questions like activation rates, feature adoption, and churn signals.
 
-An end-to-end analytics engineering project demonstrating modern data stack concepts.
+`Python` `dbt` `Product Analytics` `Churn` `Activation`
 
-Key components include:
+### [Instacart Analytics Engineering](https://github.com/albertnsql/instacart-analytics-dbt-looker)
+End-to-end analytics engineering project on the Instacart dataset.
+Built on Snowflake + dbt + LookML with a full star schema, customer RFM
+segmentation, cohort retention analysis, and a semantic layer with reusable
+explores and metrics.
 
-- Snowflake data warehouse
-- dbt transformations and testing
-- Dimensional modeling (Star Schema)
-- LookML semantic layer
-- Business intelligence dashboards
-
-This project demonstrates how analytics engineers build a **complete BI stack from raw data to business insights**.
+`Snowflake` `dbt` `LookML` `Star Schema` `RFM` `Cohort Analysis`
 
 ---
 
 ## Currently Exploring
 
-- Advanced **dbt data modeling patterns**
-- **Analytics engineering best practices**
-- **AI-assisted analytics workflows**
-- Predictive analytics using Python
+- **dbt Semantic Layer (MetricFlow)** — migrating metric definitions out of
+  LookML and into dbt for warehouse-agnostic governance
+- **Python for analytics engineering** — data profiling, pipeline scripting,
+  and pandas for pre-modeling EDA
+- **Fraud & fintech data modeling** — signal design and behavioral feature
+  engineering for risk and AML use cases
 
 ---
 
 ## Certifications
 
-Google Business Intelligence Certificate  
-Microsoft Certified: Azure Database Administrator Associate
+- Google Business Intelligence Certificate
+- Microsoft Certified: Azure Database Administrator Associate
 
 ---
 
-## Connect With Me
+## Connect
 
-LinkedIn  
-https://www.linkedin.com/in/albertn97
-
-Email  
-albertnsql@gmail.com
+[linkedin.com/in/albertn97](https://www.linkedin.com/in/albertn97)
