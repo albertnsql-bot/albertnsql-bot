@@ -1,6 +1,6 @@
 # Albert Nadar
 
-**Senior BI / Analytics Engineer** · Snowflake · dbt · Looker · SQL · Python
+**Senior Analytics Engineer (Business Intelligence & Product Analytics)** · Snowflake · dbt · Looker · SQL · Python
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-albertn97-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/albertn97)
 
